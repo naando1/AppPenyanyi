@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">10 Penyanyi Top</string>
+
+    <string name="singers_name">Nama Penyanyi</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Afgan</item>
+        <item>Ardhito Pramono</item>
+        <item>Fiersa Besari</item>
+        <item>Hindia</item>
+        <item>Isyana Sarasvati</item>
+        <item>Kunto Aji</item>
+        <item>Nadin Amizah</item>
+        <item>Paul Partohap</item>
+        <item>Rizky Febian</item>
+        <item>Tulus</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Lahir di Jakarta pada tahun 1983, nama penyanyi pop Indonesia terpopuler yang selanjutnya adalah Afgansyah Reza. Pertama kali memulai kariernya pada tahun 2008, Afgan terus melahirkan banyak karya populer yang disukai para penggemarnya dari masa ke masa. Kini, ia memiliki lebih dari 7 juta pendengar bulanan di Spotify. Pada tahun lalu, ia juga kembali berhasil menelurkan hit baru dengan judul “Ada” hasil kolaborasinya bersama penyanyi pendatang baru Lyodra. Dalam waktu kurang dari satu bulan, lagu tersebut berhasil mendapatkan lebih dari 2 juta kali pemutaran. Selain itu, Afgan juga memiliki beberapa single lain yang tidak kalah populer seperti “Bawalah Cintaku”, “Bukan Cinta Biasa”, dan “Wajahmu Mengalihkan Duniaku”. </item>
+        <item>Ardhito mengawali kariernya melalui industri musik. Ia mulai dikenal publik seusai mendaur ulang sejumlah lagu di akun YouTube pribadinya pada 2013.Ardhito mulai menciptakan beberapa lagu pada tahun itu, ketika ia masih berkuliah di JMC Academy. Setelah itu, ia sempat membantu sang ayah untuk bekerja di perusahaan miliknya. Pada tahun 2016, Ardhito merilis singel perdananya yang diberi judul "The Sun". Lagu tersebut dimuat dalam album mini pertamanya, yakni Ardhito Pramono di tahun 2017.Pada awal tahun 2018, Ardhito bergabung dengan label rekaman besar Sony Music Indonesia.</item>
+        <item>Selanjutnya, ada Fiersa Besari di deretan penyanyi pop Indonesia terpopuler saat ini. Pertama kali merintis kariernya pada tahun 2009, Fiersa luas dikenal karena lirik-lirik puitis di dalam lagunya. Tak heran, karya-karya Fiersa seperti “Garis Terdepan”, “Celengan Rindu”, “Waktu yang Salah” dan juga “April” berhasil mendapatkan lebih dari 100 juta kali pemutaran di Spotify. Kamu juga bisa dengan mudah menemukan penampilan Fiersa Besari di berbagai festival dan konser musik nasional.</item>
+        <item>Terkenal dengan lagu-lagunya yang sarat akan makna, Hindia berhasil melambung menjadi salah satu penyanyi pop paling terkenal di Indonesia. Hindia merupakan project solo dari Baskara Putra yang sebelumnya telah sukses membawa grup musik .feast menjadi sangat popular di Indonesia. Kini, Hindia tercatat telah memiliki 8 juta pendengar bulanan di Spotify dengan sederet karya populer seperti “Evaluasi”, “Rumah ke Rumah”, “Secukupnya”, dan masih banyak lagi. Di pertengahan tahun lalu, Hindia juga berhasil menelurkan album baru yang sukses di pasaran dengan tajuk Lagipula Hidup Akan Berakhir.</item>
+        <item>Nama penyanyi pop Indonesia terpopuler yang selanjutnya adalah Isyana Sarasvati. Ia pertama kali dikenal di belantika musik Indonesia lewat single debutnya yang berjudul “Keep Being You” pada tahun 2014 lalu. Kini, Isyana telah berkembang menjadi salah satu penyanyi kenamaan tanah air dengan lebih dari 2 juta pendengar bulanan di Spotify. Pada tahun lalu, ia berhasil melangsungkan tur di beberapa kota seperti Cirebon, Kudus, Yogyakarta, dan Malang untuk memperkenalkan album barunya yang bertajuk ISYANA. Dalam album tersebut, terdapat 11 single yang menarik untuk diputar seperti “my Mistery”, “UNDER GOD’S PLAN”, “UNLOCK THE KEY”, dan masih banyak lagi.</item>
+        <item>Kunto Aji mengawali kariernya di dunia entertainment dari ajang pencarian bakat Indonesian Idol musim 5 tahun 2008. Selepas itu, Kunto Aji memilih fokus kuliah di jurusan Akuntansi di Kampus YKPN Yogyakarta. Dalam perjalanan kariernya, namanya sempat meredup meski pernah bermain film berjudul Senggol Bacok. Kunto Aji bahkan pernah mendapatkan penolakan dari label musik yang menjanjikan akan merilis singlenya.Namun, pada akhirnya di tahun 2014 Kunto Aji merilis singlenya "Terlalu Lama Sendiri" menggunakan label yang dia buat. Kunto Aji mempromosikan lagunya lewat kenalan-kenalannya yang bekerja sebagai penyiar radio.</item>
+        <item>Setelah sukses dengan album Selamat Ulang Tahun pada tahun 2020 lalu, pada tahun ini Nadin Amizah kembali mengguncang belantika musik Indonesia dengan karya-karya terbaiknya dalam album Untuk Dunia, Cinta, dan Kotornya. Sejumlah hit baru berhasil tercipta dengan puluhan juta kali pemutaran seperti “Semua Aku Dirayakan” dan juga Rayuan Perempuan Gila. Lirik puitis dengan balutan vokal khas Nadin Amizah tidak pernah gagal menarik perhatian para pencinta musik Indonesia. Kini, ia merupakan salah satu penyanyi muda terpopuler dengan hampir 10 juta kali pendengar bulanan di Spotify. Kamu juga pasti pernah mendengar lagu-lagunya, kan?</item>
+        <item>Paul Partohap mengawali kariernya dengan merilis singel debut, yang berjudul Seandainya dirilis pada tahun 2017.Ia kemudian merilis singel debut solo Maxi Singel secara independen, yang berjudul Elevate dan Untuk Gita dirilis pada tahun 2018.[butuh rujukan] Ia merilis singel singel secara mainstream, yang berjudul Baby dirilis pada tahun 2019.Pada tahun 2020, Ia mengisi soundtrack dari webseries Jadi Ngaji : The Series, yang berjudul Teka Teki Hidup.Paul merilis album pertamanya, yang berjudul Vorfreude dirilis pada 4 Maret 2022dengan singel utamanya, yang berjudul PDKT sudah terlebih dahulu dirilis pada 6 Agustus 2021.</item>
+        <item>Rizky Febian Adriansyah Sutisna (lahir 25 Februari 1998) adalah seorang penyanyi-penulis lagu, aktor, dan pembawa acara berkebangsaan Indonesia. Rizky mendapatkan pengakuan luas pasca merilis debut solonya sebagai penyanyi dewasa berjudul Kesempurnaan Cinta pada tahun 2015.Pada awal kariernya sebagai penyanyi, Rizky telah meraih sembilan penghargaan termasuk 2 Anugerah Musik Indonesia 2016 sebagai Pendatang Baru Terbaik-Terbaik dan Penulis Lagu Pop Terbaik,serta 1 Anugerah Planet Muzik 2016 sebagai Artis Baru Lelaki Terbaik.</item>
+        <item>Punya vokal lembut dan lirik-lirik lagu yang easy listening, penyanyi pop Indonesia terpopuler selanjutnya adalah Tulus. Ia lahir di Bukittinggi pada tahun 1987 dan telah memulai karier profesionalnya sejak tahun 2011 lalu. Selama lebih dari dua dekade berkarier, Tulus telah menelurkan lusinan lagu hit yang telah diputar sebanyak ratusan juta kali. Pada tahun ini, ia sukses menggelar tur untuk album terbarunya yang bertajuk Manusia. Dalam album baru tersebut, Tulus berhasil menelurkan beberapa hit baru seperti Hati-hati di Jalan dan Interaksi. Karya-karyanya yang lain juga terus diputar oleh para pencinta musik Indonesia dengan lebih dari 9 juta pendengar bulanan di Spotify.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/afgan</item>
+        <item>@drawable/ardhito_pramono</item>
+        <item>@drawable/fiersa_besari</item>
+        <item>@drawable/hindia</item>
+        <item>@drawable/isyana_sarasvati</item>
+        <item>@drawable/kunto_aji</item>
+        <item>@drawable/nadin_amizah</item>
+        <item>@drawable/paul_partohap</item>
+        <item>@drawable/rizky_febian</item>
+        <item>@drawable/tulus</item>
+    </integer-array>
+    <string name="pindah_detail">Detail</string>
+</resources>
